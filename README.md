@@ -1,6 +1,6 @@
 # Liverpool Museum of Natural History (LMNH) Visitor Data Pipeline
 
-<img src="https://images.liverpoolmuseums.org.uk/styles/focal_point_4_3/public/import-news-articles/World-Museum-large_0.jpg" />
+<img src="https://images.liverpoolmuseums.org.uk/styles/focal_point_4_3/public/import-news-articles/World-Museum-large_0.jpg" style="width: 400px;" />
 
 ### Project Overview
 The Liverpool Museum of Natural History (LMNH) is a leading cultural institution in Liverpool, attracting hundreds of thousands of visitors each year to award-winning exhibitions like "Fossils of the Ancient Nile" and "Inordinately Fond: Biodiversity in Beetles." With a mission to provide value to the community and enhance visitor experience, LMNH has launched a project to collect real-time feedback data using interactive kiosks placed at exhibition exits.
